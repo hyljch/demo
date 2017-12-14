@@ -14,6 +14,6 @@ public interface DefaultDemo
 
     static void staticDemo(String str)
     {
-        System.out.println("DefaultDemo.staticDemo");
+        System.out.println("DefaultDemo.staticDemo ");
     }
 }
